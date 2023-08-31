@@ -1,4 +1,4 @@
- <!--
+<!--
 **UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -11,7 +11,7 @@
 
 - 🎓 I'm taking a higher education course in Information Systems and a technical course in Systems Development
 - 💻 I’m currently working at [Bosch]([https://www.epsilon.com/us](https://www.bosch.com.br)) 
-- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ Objective 2023: Continue acquiring knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love listening to music, gym, programming and sleeping
 
 
