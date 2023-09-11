@@ -7,7 +7,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byanka-monteiro-b1284b22b" target="_blank" rel="noopener noreferrer">Byanka Monteiro</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/byankatm"><img align='right' src='https://github.com/byankatm/byankatm/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="https://github.com/byankatomaz"><img align='right' src='https://github.com/byankatomaz/byankatomaz/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 I'm taking a higher education course in Information Systems and a technical course in Systems Development
 - 💻 I’m currently working at [Bosch]([https://www.epsilon.com/us](https://www.bosch.com.br)) 
@@ -31,7 +31,7 @@
 
 <br />
 
-[![Byanka's github stats](https://github-readme-stats.vercel.app/api?username=byankatm&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/byankatm?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byankatm&layout=compact&langs_count=6&theme=transparent)](https://github.com/byankatm)
+[![Byanka's github stats](https://github-readme-stats.vercel.app/api?username=byankatomaz&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/byankatomaz?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byankatomaz&layout=compact&langs_count=6&theme=transparent)](https://github.com/byankatomaz)
 
 <!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=UjwalKandi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
@@ -52,14 +52,14 @@
  <p align='left'>
    <a href="https://www.linkedin.com/in/byanka-monteiro-b1284b22b" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
  <a href="https://instagram.com/tomazbye" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
- <a href="https://github.com/byankatm" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/byankatomaz" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
  
  </p>
 
 
 ![build](https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/badge.svg)
 ![GitHub last commit](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
-![pv](https://pageview.vercel.app/?github_user=byankatm)
+![pv](https://pageview.vercel.app/?github_user=byankatomaz)
 
 
 
