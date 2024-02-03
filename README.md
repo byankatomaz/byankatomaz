@@ -2,12 +2,18 @@
 **UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Sameer Memon👋</b></h1>
+</p>
 
+<p>
+  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+</p>
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/byanka-monteiro-b1284b22b" target="_blank" rel="noopener noreferrer">Byanka Tomaz</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
-<a href="https://github.com/byankatomaz"><img align='right' src='https://github.com/byankatomaz/byankatomaz/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
+</p>
 
 - 🎓 I'm taking a higher education course in Information Systems and a technical course in Systems Development
 - 💻 I’m currently working at [Bosch]([https://www.epsilon.com/us](https://www.bosch.com.br)) 
