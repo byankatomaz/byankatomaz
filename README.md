@@ -15,7 +15,7 @@
 
 - 🎓 I'm taking a higher education course in Information Systems and a technical course in Systems Development
 - 💻 I’m currently working at [Bosch]([https://www.epsilon.com/us](https://www.bosch.com.br)) 
-- ⭐ Objective 2023: Continue acquiring knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ Objective 2024: Continue acquiring knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love listening to music, gym, programming and sleeping
 
 
@@ -43,7 +43,18 @@
 
 <br />
 
-[![Byanka's github stats](https://github-readme-stats.vercel.app/api?username=byankatomaz&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/byankatomaz?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byankatomaz&layout=compact&langs_count=6&theme=transparent)](https://github.com/byankatomaz)
+<p align="center" style="margin-top: 2rem;">
+  <a href="https://github.com/byankatomaz?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=byankatomaz&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=stars&include_all_commits=true" height="180em" alt="Byanka's GitHub Stats">
+  </a>
+  <a href="https://github.com/byankatomaz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byankatomaz&layout=compact&langs_count=6&theme=transparent" height="180em" alt="Top Languages">
+  </a>
+</p>
+
+
+
+
 
 <!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=UjwalKandi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
