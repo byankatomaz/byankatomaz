@@ -45,10 +45,10 @@
 
 <p align="center" style="margin-top: 2rem;">
   <a href="https://github.com/byankatomaz?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=byankatomaz&count_private=true&show_icons=true&theme=transparent&hide_rank=false&hide=stars&include_all_commits=true" height="180em" alt="Byanka's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=byankatomaz&show_icons=true\&theme=dark#gh-dark-mode-only" height="180em" alt="Byanka's GitHub Stats">
   </a>
   <a href="https://github.com/byankatomaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byankatomaz&layout=compact&langs_count=6&theme=transparent" height="180em" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byankatomaz&lshow_icons=true\&theme=dark#gh-dark-mode-only" height="180em" alt="Top Languages">
   </a>
 </p>
 
