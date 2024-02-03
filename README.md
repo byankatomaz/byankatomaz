@@ -11,6 +11,8 @@
   <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 </p>
 
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+
 - 🎓 I'm taking a higher education course in Information Systems and a technical course in Systems Development
 - 💻 I’m currently working at [Bosch]([https://www.epsilon.com/us](https://www.bosch.com.br)) 
 - ⭐ Objective 2023: Continue acquiring knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -19,15 +21,23 @@
 
 #### Languages and Tools 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
-  <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
-  <code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML">
+    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" alt="Electron">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS">
+    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript">  
 
 </p>
 
