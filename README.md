@@ -21,23 +21,11 @@
 
 #### Languages and Tools 
 <p>
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python">
     <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git">
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal">
     <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java">
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS">
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript">
     <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL">
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML">
-    <img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" alt="Electron">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" alt="Hibernate">
     <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven">
     <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="TailwindCSS">
-    <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript">  
 
 </p>
 
